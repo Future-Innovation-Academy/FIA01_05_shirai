@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.box {
+ margin: 0;
+  background-color:transparent;
+ text-align: left;
+  list-style: none;
+  width:48%;
+display: flex;
+}
+
+.result {
+  margin: 0;
+  text-align: right;
+  list-style: none;
+  width:48%;
+  display: inline-block;
+}
